@@ -6,3 +6,6 @@ Pequeña aplicación estática que muestra mi nombre. El mismo se encuentra dock
 
 - Nombre: Goñi Matias
 
+## Docker corriendo:
+
+![Docker corriendo](image.png)
